@@ -13,3 +13,7 @@ You can use the IR remote to perform whatever action you need, this code simply 
 IR codes are for SAMSUNG. You will need to update the codes for your remotes. If anyone wants to dump their codes in I can add them here
 
 
+A picture:
+
+
+[[https://raw.githubusercontent.com/saliehendricks/espKodi/master/io-architecture.png|alt=architecturepic]]
