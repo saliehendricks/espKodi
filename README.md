@@ -10,6 +10,6 @@ Instead the MQTT server is generally more capable and thus faster to execute HTT
 
 You can use the IR remote to perform whatever action you need, this code simply broadcasts to a local MQTT server.
 
-IR codes are for SAMSUNG. You will need to update the codes for your remotes. 
+IR codes are for SAMSUNG. You will need to update the codes for your remotes. If anyone wants to dump their codes in I can add them here
 
 
