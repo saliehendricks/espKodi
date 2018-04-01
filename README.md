@@ -15,5 +15,4 @@ IR codes are for SAMSUNG. You will need to update the codes for your remotes. If
 
 A picture:
 
-
-[[https://raw.githubusercontent.com/saliehendricks/espKodi/master/io-architecture.png|alt=architecturepic]]
+![alt architecture-pic](https://raw.githubusercontent.com/saliehendricks/espKodi/master/io-architecture.png)
